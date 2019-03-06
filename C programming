@@ -1,0 +1,13 @@
+#include<iostream.h>
+
+void main()
+{  cout<<"HELLO WORLD!!"<<endl;
+
+int a,b;
+print("Enter the value of a:");
+scanf("%d",&a);
+printf("Enter the value of b:");
+scanf("%d",&b);
+c=a+b;
+printf("Value of c=%d",c);
+}
